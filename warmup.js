@@ -1,4 +1,4 @@
-var hobbies = ['photography', 'biking', 'hiking'];
+var hobbies = ['clone','photography', 'biking', 'hiking'];
 hobbies.push('writing', 'painting', 'running', 'filmmaking', 'sculpting', 'calligraphy');
 console.log(hobbies, 'pushed six items');
 hobbies.shift();
